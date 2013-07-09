@@ -1,0 +1,10 @@
+
+
+	DENCLUE is a data mining algorithm which employs a clustering technique based on data set density.
+
+	- Reference:
+
+	    Alexander Hinneburg and Daniel A. Keim. 
+	    An efficient approach to clustering in large multimedia databases with noise. 
+	    In Knowledge Discovery and Data Mining, pages 58-65, 1998.
+
