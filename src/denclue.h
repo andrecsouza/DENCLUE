@@ -31,6 +31,7 @@
 #include <fstream>
 #include <vector>
 #include <cstdlib>
+#include <getopt.h>
 #include "hypercube.h"
 #include "hyperspace.h"
 #include "dataset.h"

@@ -31,6 +31,7 @@
 #include <vector>
 #include <map>
 #include <string>
+#include <cstring>
 #include <sstream>
 #include <cmath>
 #include <cstdlib>

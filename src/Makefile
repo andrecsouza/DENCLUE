@@ -1,4 +1,4 @@
-CPP=g++-4.0
+CPP=g++ # v4.8
 INCLUDE=-I../include/
 FLAGS=-Wall -ggdb #-O2 -ffast-math
 OBJECTS= dataset.o hypercube.o hyperspace.o denclue_functions.o denclue.o
