@@ -29,6 +29,7 @@
 /* INCLUSIONS */
 #include <iostream>
 #include <cmath>
+#include <cassert>
 #include "dataset.h"
 using namespace std;
 
